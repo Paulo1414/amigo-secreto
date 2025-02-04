@@ -32,7 +32,7 @@ function adicionarAmigo(){
 
 function sortearAmigo(){
     amigoSecreto = ListaDeAmigosSorteados[Math.floor(Math.random()*ListaDeAmigosSorteados.length)]
-    console.log(amigoSecreto) 
+    alert(amigoSecreto) 
 }
 
 
