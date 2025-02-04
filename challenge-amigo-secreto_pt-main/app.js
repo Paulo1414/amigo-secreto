@@ -46,7 +46,7 @@ function sortearAmigo(){
     if(ListaDeAmigosSorteados == ""){
         alert("antes digite um nome válido")
     }else{
-    alert(amigoSecreto) 
+    alert(` seu amigo secreto é ${amigoSecreto}`) 
 }
 }
 
