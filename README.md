@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# amigo-secreto
-<h1 align="center"> Amigo Secreto </h1>
-=======
 <h1 align="center"> Amigo Secreto </h1>
 
 ![bem vindo](https://github.com/user-attachments/assets/9d05a1f1-d097-4127-b3bb-0b01e594fc24)
@@ -50,4 +46,3 @@ https://github.com/user-attachments/assets/55b1df8a-bfcb-455c-aaf9-3fa74af603ed
 <sub>Paulo Ricardo</sub>(https://github.com/Paulo1414) 
 
     
->>>>>>> 342a4aad6361845141e870f594455804372ca157
