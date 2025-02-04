@@ -43,6 +43,6 @@ https://github.com/user-attachments/assets/55b1df8a-bfcb-455c-aaf9-3fa74af603ed
 
 # PESSOAS ENVOLVIDAS
 
-<sub>Paulo Ricardo</sub>](https://github.com/Paulo1414) 
+<sub>Paulo Ricardo</sub>(https://github.com/Paulo1414) 
 
     
