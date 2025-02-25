@@ -1,6 +1,6 @@
 <h1 align="center"> Amigo Secreto </h1>
 
-!<p>[bem vindo](https://github.com/user-attachments/assets/9d05a1f1-d097-4127-b3bb-0b01e594fc24)</p>
+![bem vindo](https://github.com/user-attachments/assets/9d05a1f1-d097-4127-b3bb-0b01e594fc24)
 ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
 # Índice 
 
