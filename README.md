@@ -12,7 +12,7 @@ main {
 justify-content: space-between
 }
 
-* <p>[Título e Imagem de capa](#Título-e-Imagem-de-capa)</p>
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
